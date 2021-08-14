@@ -1,0 +1,23 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Shortens input URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omgreenfield/url-shortener.git"
+  },
+  "author": "Matthew Greenfield (OMGreenfield)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omgreenfield/url-shortener/issues"
+  },
+  "homepage": "https://github.com/omgreenfield/url-shortener#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "got": "^11.8.2"
+  }
+}
